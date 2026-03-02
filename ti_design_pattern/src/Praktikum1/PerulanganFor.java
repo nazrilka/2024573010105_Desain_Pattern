@@ -1,4 +1,4 @@
-package modul_1;
+package Praktikum1;
 
 public class PerulanganFor {
     public static void main(String[] args){

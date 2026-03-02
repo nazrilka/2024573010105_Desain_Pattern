@@ -1,4 +1,4 @@
-package modul_1.Latihan;
+package Praktikum1.Latihan;
 
 public class Latihan_modul_1_L4 {
     public static void main(String[] args) {

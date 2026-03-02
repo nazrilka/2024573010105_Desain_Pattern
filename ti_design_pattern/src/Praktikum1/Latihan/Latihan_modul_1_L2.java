@@ -1,4 +1,4 @@
-package modul_1.Latihan;
+package Praktikum1.Latihan;
 import java.util.Scanner;
 
 public class Latihan_modul_1_L2 {

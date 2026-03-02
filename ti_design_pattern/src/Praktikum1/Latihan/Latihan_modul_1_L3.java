@@ -1,4 +1,4 @@
-package modul_1.Latihan;
+package Praktikum1.Latihan;
 import java.util.Scanner;
 
 //Buat program untuk menentukan apakah suatu bilangan genap atau ganji
