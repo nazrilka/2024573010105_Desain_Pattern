@@ -1,8 +1,8 @@
-package Praktikum1;
+package laporan1;
 
 public class PercabanganIfElse {
     public static void main(String[] args) {
-        int nilai = 85;
+        int nilai = 20;
 
         if (nilai >= 75){
             System.out.println("Anda lulus!");

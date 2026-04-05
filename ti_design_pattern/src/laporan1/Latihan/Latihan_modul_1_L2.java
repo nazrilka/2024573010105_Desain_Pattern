@@ -1,4 +1,4 @@
-package Praktikum1.Latihan;
+package laporan1.Latihan;
 import java.util.Scanner;
 
 public class Latihan_modul_1_L2 {
@@ -14,7 +14,7 @@ public class Latihan_modul_1_L2 {
 
         float luas = p * l;
 
-        System.out.println("Luas persegi panjang tersebut adalah: %2f\n" + luas);
+        System.out.println("Luas persegi panjang tersebut adalah:" + luas);
         System.out.println("--------------------------------");
 
     }

@@ -1,4 +1,4 @@
-package Praktikum1;
+package laporan1;
 
 public class HelloWorld {
     public static void main(String[] args){

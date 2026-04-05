@@ -1,4 +1,4 @@
-package Praktikum1;
+package laporan1;
 
 public class Variable {
     public static void main( String[] args){

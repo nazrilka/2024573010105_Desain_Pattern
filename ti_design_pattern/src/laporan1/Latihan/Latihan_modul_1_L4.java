@@ -1,4 +1,4 @@
-package Praktikum1.Latihan;
+package laporan1.Latihan;
 
 public class Latihan_modul_1_L4 {
     public static void main(String[] args) {
@@ -8,6 +8,5 @@ public class Latihan_modul_1_L4 {
                 System.out.println(i);
             }
         }
-
     }
 }

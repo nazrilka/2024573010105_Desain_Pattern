@@ -1,4 +1,4 @@
-package Praktikum1.Latihan;
+package laporan1.Latihan;
 
 public class Latihan_modul_1 {
     public static void main(String[] args){
@@ -8,7 +8,7 @@ public class Latihan_modul_1 {
         char gender = 'L';
         String fullname = "Nazril";
         String DerthOfPlace = "Jakarta";
-        String DateOfBirth = "19 Agust 2005";
+        String DateOfBirth = "19 Agustus 2005";
         String BloodType = "O";
         String Religion = "Islam";
         String Occupation = "Mahasiswa";
