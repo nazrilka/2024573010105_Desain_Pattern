@@ -75,11 +75,11 @@ public class HelloWorld {
 ```
 7. Struktur folder yang kita gunakan adalah seperti berikut ini:
 
-<img src="../../Laporan/laporan1/Gambar_laporan1/struktur_folder.png" width="500">
+<img src="Gambar_laporan1/struktur_folder.png" width="500">
 
 Berikut Outputnya:
 
-<img src="../../Laporan/laporan1/Gambar_laporan1/hello_world.png" width="500">
+<img src="Gambar_laporan1/hello_world.png" width="500">
 
 ## 2.2 Praktikum
 
@@ -118,7 +118,7 @@ public class Variable {
 ```
 <br>Berikut Outputnya:</br>
 
-<img src="../../Laporan/laporan1/Gambar_laporan1/VariableDanTipeData.png" width="500">
+<img src="Gambar_laporan1/VariableDanTipeData.png" width="500">
 
 ### 2. Oprator dan Expressi
 
@@ -144,7 +144,7 @@ public class Oprator {
 ```
 <b>Berikut Outputnya:</b> <br>
 
-<img src="../../Laporan/laporan1/Gambar_laporan1/Oprator.png" width="500">
+<img src="Gambar_laporan1/Oprator.png" width="500">
 
 ### 3. Perulangan (If-Else dan Switch-Case)
 
@@ -177,7 +177,7 @@ public class PercabanganIfElse {
 ```
 <b>Berikut Outpunya:</b>
 
-<img src="../../Laporan/laporan1/Gambar_laporan1/If_Else.png" width="500">
+<img src="Gambar_laporan1/If_Else.png" width="500">
 
 ### 4. Perulangan (For, Do-While)
 
@@ -249,7 +249,7 @@ public class Latihan_modul_1 {
 ```
 <b>Output:</b>
 
-<img src="../../Laporan/laporan1/Gambar_laporan1/Gambar_Latihan/latihan1.png" width="500">
+<img src="Gambar_laporan1/Gambar_Latihan/latihan1.png" width="500">
 
 2. Buat program untuk menghitung luas persegi panjang (panjang * lebar)
 
@@ -279,7 +279,7 @@ public class Latihan_modul_1_L2 {
 ```
 <b>Output:</b>
 
-<img src="../../Laporan/laporan1/Gambar_laporan1/Gambar_Latihan/latihan2.png" width="500">
+<img src="Gambar_laporan1/Gambar_Latihan/latihan2.png" width="500">
 
 3. Buat program untuk menentukan apakah suatu bilangan genap atau ganjil.
 
@@ -308,7 +308,7 @@ public class Latihan_modul_1_L3 {
 ```
 <b>Output</b>
 
-<img src="../../Laporan/laporan1/Gambar_laporan1/Gambar_Latihan/latihan2.png" width="500">
+<img src="Gambar_laporan1/Gambar_Latihan/latihan2.png" width="500">
 
 4. Buat program untuk mencetak bilangan ganjil dari 1 hingga 20. Buat 3 program dengan menggunakan for, while, do-while.
 
@@ -330,7 +330,7 @@ public class Latihan_modul_1_L4 {
 
 <b>Output</b>
 
-<img src="../../Laporan/laporan1/Gambar_laporan1/Gambar_Latihan/latihan3_for.png" width="500">
+<img src="Gambar_laporan1/Gambar_Latihan/latihan3_for.png" width="500">
 
 <b>Source Code</b>
 - Do-While
@@ -354,7 +354,7 @@ public class Latihan_modul_1_L4_3 {
 
 <b>Output</b>
 
-<img src="../../Laporan/laporan1/Gambar_laporan1/Gambar_Latihan/latihan3_do_while.png" width="500">
+<img src="Gambar_laporan1/Gambar_Latihan/latihan3_do_while.png" width="500">
 
 ## KESIMPULAN
 
