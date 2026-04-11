@@ -1,4 +1,4 @@
-package pratikum_2.bagian_6;
+package Praktikum_2.bagian_6;
 
 import java.util.ArrayList;
 
@@ -33,7 +33,7 @@ public class Perpustakaan {
     public void cariBuku(String judul) {
         boolean ditemukan = false;
         for (Buku buku : daftarBuku) {
-            if (buku.getjudul().equalsIgnoreCase(judul)) {
+            if (buku.getJudul().equalsIgnoreCase(judul)) {
                 System.out.println("Buku ditemukan:");
                 buku.tampilkanInfo();
                 ditemukan = true;

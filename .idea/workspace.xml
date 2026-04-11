@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b4f8160e-8bf5-4372-8142-81b0859c1544" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/Laporan/Laporan2/Gambar/bagian1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/Laporan/Laporan2/Gambar/bagian2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/Laporan/Laporan2/Gambar/bagian3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/Laporan/Laporan2/Gambar/bagian4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/Laporan/Laporan2/Gambar/bagian5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/Laporan/Laporan2/Gambar/bagian6_pt1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/Laporan/Laporan2/Gambar/bagian6_pt2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/Laporan/Laporan2/Gambar_latihan/Latihan6_pt1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/Laporan/Laporan2/Gambar_latihan/Latihan6_pt2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/Laporan/Laporan2/Gambar_latihan/Latihan6_pt3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/Laporan/Laporan2/Gambar_latihan/Latihan6_pt4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/Laporan/Laporan2/Laporan_praktikum_2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ti_design_pattern/Laporan/Laporan3/Laporan_modul3.md" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/Laporan/Laporan3/laporan_praktikum_3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ti_design_pattern/Laporan/Laporan3/Laporan_modul3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_2/bagian_6/Buku.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_2/bagian_6/Buku.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_2/bagian_6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_2/bagian_6/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_2/bagian_6/Perpustakaan.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_2/bagian_6/Perpustakaan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_3/bagian_6/Tiket.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_3/bagian_6/Tiket.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ti_design_pattern/src/modul_1/Latihan/Latihan_modul_1_L2.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="3A3UXpLQcWvRUhLPYLEctVvS6z8" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.HelloWorld.executor": "Run",
+    "Application.KonferensiApp.executor": "Run",
+    "Application.Latihan_modul_1.executor": "Run",
+    "Application.Latihan_modul_1_L2.executor": "Run",
+    "Application.Latihan_modul_1_L3.executor": "Run",
+    "Application.Latihan_modul_1_L4.executor": "Run",
+    "Application.Latihan_modul_1_L4_3.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Oprator.executor": "Run",
+    "Application.PercabanganIfElse.executor": "Run",
+    "Application.PerulanganFor.executor": "Run",
+    "Application.Praktikum_2.Bagian_1.Latihan.Main.executor": "Run",
+    "Application.Praktikum_2.Bagian_1.Main.executor": "Run",
+    "Application.Praktikum_2.Bagian_3.Main.executor": "Run",
+    "Application.Praktikum_2.bagian_2.Latihan.Main.executor": "Run",
+    "Application.Praktikum_2.bagian_2.Main.executor": "Run",
+    "Application.Praktikum_2.bagian_3.Latihan.Main.executor": "Run",
+    "Application.Praktikum_2.bagian_3.Main.executor": "Run",
+    "Application.Praktikum_2.bagian_4.Latihan.Main.executor": "Run",
+    "Application.Praktikum_2.bagian_5.Latihan.Main.executor": "Run",
+    "Application.Praktikum_2.bagian_6.Main.executor": "Run",
+    "Application.Praktikum_3.bagian_1.main.executor": "Run",
+    "Application.Variable.executor": "Run",
+    "Application.laporan1.Latihan.Latihan_modul_1.executor": "Run",
+    "Application.laptop.executor": "Run",
+    "Application.main.executor": "Run",
+    "Application.modul_3.Latihan.main.executor": "Run",
+    "Application.modul_3.bagian_1.main.executor": "Run",
+    "Application.modul_3.bagian_2.Latihan.main.executor": "Run",
+    "Application.modul_3.bagian_2.main.executor": "Run",
+    "Application.modul_3.bagian_3.compotition.main.executor": "Run",
+    "Application.modul_3.bagian_3.main.executor": "Run",
+    "Application.modul_3.bagian_3.pewarisan.main.executor": "Run",
+    "Application.modul_3.bagian_4.overloading.main.executor": "Run",
+    "Application.modul_3.bagian_4.overriding.main.executor": "Run",
+    "Application.modul_3.bagian_5.Latihan.Main.executor": "Run",
+    "Application.modul_3.bagian_5.Main.executor": "Run",
+    "Application.modul_3.bagian_5.abstrak.main.executor": "Run",
+    "Application.modul_3.bagian_5.antarmuka.main.executor": "Run",
+    "Application.overloading.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Asus/IdeaProjects/2024573010105_Desain_Pattren/ti_design_pattern/src/laporan1",
+    "onboarding.tips.debug.path": "C:/Users/Asus/IdeaProjects/2024573010105_Desain_Pattren/ti_design_pattern/Laporan/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "settings.sync"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\IdeaProjects\2024573010105_Desain_Pattren\ti_design_pattern\src\laporan1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\IdeaProjects\2024573010105_Desain_Pattren\ti_design_pattern\Laporan\Laporan2\Gambar_latihan" />
+      <recent name="C:\Users\Asus\IdeaProjects\2024573010105_Desain_Pattren\ti_design_pattern\Laporan\laporan1" />
+      <recent name="C:\Users\Asus\IdeaProjects\2024573010105_Desain_Pattren\ti_design_pattern\src\Praktikum_1" />
+      <recent name="C:\Users\Asus\IdeaProjects\2024573010105_Desain_Pattren\ti_design_pattern\Laporan\Laporan3" />
+      <recent name="C:\Users\Asus\IdeaProjects\2024573010105_Desain_Pattren\ti_design_pattern\src\modul_3\Gambar\Gambar_Latihan" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="laporan1" />
+    </key>
+    <key name="ImportExportFile.TargetDir.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ti_design_pattern/src/laporan1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Praktikum_2.bagian_6.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Praktikum_2.bagian_4.Main" />
+      <module name="ti_design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Praktikum_2.bagian_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Praktikum_2.bagian_3.Latihan.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Praktikum_2.bagian_3.Latihan.Main" />
+      <module name="ti_design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Praktikum_2.bagian_3.Latihan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Praktikum_2.bagian_4.Latihan.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Praktikum_2.bagian_4.Latihan.Main" />
+      <module name="ti_design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Praktikum_2.bagian_4.Latihan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Praktikum_2.bagian_5.Latihan.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Praktikum_2.bagian_5.Latihan.Main" />
+      <module name="ti_design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Praktikum_2.bagian_5.Latihan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Praktikum_2.bagian_6.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Praktikum_2.bagian_6.Main" />
+      <module name="ti_design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Praktikum_2.bagian_6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Praktikum_2.bagian_6.Main" />
+        <item itemvalue="Application.Praktikum_2.bagian_5.Latihan.Main" />
+        <item itemvalue="Application.Praktikum_2.bagian_4.Latihan.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Praktikum_2.bagian_3.Latihan.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4f8160e-8bf5-4372-8142-81b0859c1544" name="Changes" comment="" />
+      <created>1771820792890</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1771820792890</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ti_design_pattern/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ti_design_pattern/src/Praktikum_3/bagian_4/overriding/main.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ti_design_pattern/Laporan/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ti_design_pattern/src/Praktikum_2/bagian_2/Main.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/ti_design_pattern/src/Praktikum1/Latihan/Latihan_modul_1_L3.java</url>
+          <line>6</line>
+          <properties class="Praktikum1.Latihan.Latihan_modul_1_L3">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

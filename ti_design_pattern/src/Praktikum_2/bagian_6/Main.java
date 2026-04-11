@@ -1,4 +1,4 @@
-package pratikum_2.bagian_6;
+package Praktikum_2.bagian_6;
 
 import java.util.Scanner;
 
